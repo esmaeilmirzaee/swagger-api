@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": 1234,
+      "title": "Make it happen"
+    },
+    {
+      "id": 2,
+      "title": "It would happen"
+    },
+    {
+      "id": "ERPFEDeI",
+      "title": "Another book"
+    },
+    {
+      "id": "OfwIUDc7",
+      "title": "How to Not Write Bad",
+      "author": "Ben Yegoda"
+    },
+    {
+      "id": "k7SkhEZY",
+      "title": "How Write not to bad",
+      "author": "Ben Yegoda"
+    },
+    {
+      "id": "5gG7SHJH",
+      "title": "How Write not to bad",
+      "author": "Ben Yegoda"
+    }
+  ]
+}
